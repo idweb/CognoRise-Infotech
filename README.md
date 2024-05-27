@@ -1,3 +1,5 @@
+This is the DataSet of Hackathon held on Analytics Vidya
+
 The data scientists at BigMart have collected 2013 sales data for numerous products across many stores in different cities. Also, certain attributes of each product and store have been defined.
 
 The aim is to build a predictive model and find out the sales of each product at a particular store.
