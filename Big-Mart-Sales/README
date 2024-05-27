@@ -1,0 +1,21 @@
+#BigMart Sales Analysis Using Tableau
+
+##Introduction
+
+This project provides an in-depth analysis of BigMart's sales data using Tableau. The analysis aims to uncover trends, performance metrics, and strategic insights to enhance retail operations, customer engagement, and overall sales performance. By leveraging Tableau's powerful visualization capabilities, we can gain a comprehensive understanding of various factors impacting sales, such as product characteristics, outlet details, and geographic locations.
+Dataset Overview
+
+##The dataset used in this analysis includes the following variables:
+
+    PRODUCTID: Unique product identifier
+    WEIGHT: Weight of products
+    FATCONTENT: Specifies whether the product is low on fat or not
+    VISIBILITY: Percentage of total display area of all products in a store allocated to the particular product
+    PRODUCTTYPE: The category to which the product belongs
+    MRP: Maximum retail price (listed price) of the products
+    Outlet id: Unique store identifier
+    ESTABLISHMENTYEAR: Year of establishment of the outlets
+    OUTLETSIZE: The size of the store in terms of ground area covered
+    LOCATIONTYPE: The type of city in which the store is located
+    OUTLETTYPE: Specifies whether the outlet is just a grocery store or some sort of supermarket
+    OUTLETSALES: Sales revenue
