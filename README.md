@@ -1,2 +1,2 @@
 # CognoRise-Infotech
-CognoRise InfoTech Projects for Internship
+CognoRise InfoTech Tasks
